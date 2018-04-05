@@ -1,0 +1,17 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "Battle ship war game for thought works interview assignment",
+  "main": "src/index.js",
+  "scripts": {
+    "battleship": "node src/index.js",
+    "test": "jest"
+  },
+  "author": "Abhijeet Ahuja",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "jest": "^22.0.6"
+  }
+}
